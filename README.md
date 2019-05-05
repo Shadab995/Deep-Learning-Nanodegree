@@ -1,3 +1,7 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+
+
 # Deep-Learning-Nanodegree
 This repository contains all projects which are graded by Udacity during my nanodegree and classroom assesments of DLND 
 
@@ -27,3 +31,7 @@ Build a pair of multi-layer neural networks and make them compete against each o
 ## Deploying a Sentiment Analysis Model
 
 Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
+
+
+
+![Nanodegree](DLND.png)
